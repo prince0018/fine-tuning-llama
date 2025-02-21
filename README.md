@@ -3,7 +3,7 @@ This repository contains code and instructions for fine-tuning the Llama 3.2 (1B
 
 📝 Features
 Uses LoRA (Low-Rank Adaptation) for efficient fine-tuning  <br>
-Implements DeepSpeed & bitsandbytes for memory-efficient training//
-Supports custom datasets in JSON, CSV, and Parquet formats//
-Training on consumer GPUs with mixed-precision (FP16/BF16)//
+Implements DeepSpeed & bitsandbytes for memory-efficient training<br>
+Supports custom datasets in JSON, CSV, and Parquet formats<br>
+Training on consumer GPUs with mixed-precision (FP16/BF16)<br>
 Inference with optimized quantization for deployment//
